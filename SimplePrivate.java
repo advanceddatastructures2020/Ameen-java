@@ -6,7 +6,7 @@ private void msg()
 System.out.println("Hello java");
 }
 }
-public class Simple
+public class SimplePrivate
 {
 public static void main(String args[])
 {
